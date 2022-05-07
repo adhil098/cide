@@ -1,0 +1,25 @@
+$target file Starget dir hasename($_FILES['file']['name']);
+
+Simagef lielype-strtolome(pathinfo($target_file, PATHINIO EXTENSION));
+
+slide-Demo
+
+Sextension array array("jpg","jpeg","png","gif");
+
+if(in array($imageFileType, Sextension_array))(
+
+bootstrap min.cssma
+
+10 11
+
+$image base64-base64_encode(file_get_contents($_FILES['file']['tmp_name'])); $image data:image/ $imageFileType ;base64 Simage_base64;
+
+/bootstrapminj
+
+config.php
+
+Sider pho
+
+12 13
+
+Squery-"Insert into image_table(image) values("" Simage "")"; mysqli query($con, Squery); nowe uploaded (110(S_FILES['11']['tmp_name'], $target dir $name); header("location:slider.php);
